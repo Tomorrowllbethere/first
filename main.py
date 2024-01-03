@@ -1,2 +1,2 @@
 print ("hello world")
-jghjbkkgh
+print ("hi")
